@@ -1,0 +1,173 @@
+body{
+    background-image: url(US-en-20230206-popsignuptwoweeks-perspective_alpha_website_large.jpg.png);
+    background-repeat: no-repeat;
+    background-color: rgb(63, 60, 60);
+    display: flex;
+}
+
+.div-prin{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 9px 9px 10px;
+    
+    margin: 100px 0px 0px 270px;
+    width: 450px;
+    height: 660px;
+    
+    background: rgba(0, 0, 0, 0.75);
+    border-radius: 4px;
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.netflix{
+    margin: 15px 0px 0px 15px;
+}
+
+.login{
+   
+width: 99px;
+height: 38px;
+left: 0.41px;
+top: -1px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+display: flex;
+align-items: center;
+margin: 50px 0px 5px 70px;
+color: #FFFFFF;
+}
+
+
+
+.butao{
+    margin: 40px 300px 0px 72px;
+    border: none;
+    padding: 17px 140px;
+    background-color: #E50914;
+    color: #FFFFFF;
+    border-radius: 3px;
+    box-shadow: 20px;
+    display: flex;
+   
+    
+    align-items: center;
+}
+
+.butao:hover{
+    transform: perspective(10227.5px);
+}
+
+.texto_descricao{
+   
+width: 282.01px;
+height: 30px;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+margin: 0px 0px 100px 0px;
+color: #8C8C8C;
+}
+
+.novo{
+
+width: 203px;
+height: 19px;
+left: 0.44px;
+top: 15px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+margin: 100px 0px 20px 50px;
+
+color: #737373;
+
+}
+
+.email{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+    background-color: #333333;
+    color: #8C8C8C;
+
+width: 314px;
+height: 50px;
+left: 0px;
+top: 0px;
+border: 0px;
+border-radius: 4px;
+margin: 15px 0px 0px 70px;
+}
+
+.senha{
+    padding: 0px;
+    width: 314px;
+height: 50px;
+background-color: #333333;
+border-radius: 4px;
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+border: 0px;
+margin: 15px 0px 0px 70px;
+}
+
+.lembrar{
+    margin: 0px 0px 0px 70px;
+
+
+order: 0;
+flex-grow: 0;
+color: #B3B3B3;
+}
+
+.lembrar-text{
+    color: #B3B3B3;
+    width: 227.5px;
+    height: 19.19px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.link-ajuda{
+    position: absolute;
+width: 65px;
+height: 15px;
+left: 248.35px;
+top: 2px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+
+color: #B3B3B3;
+}
+
+placeholder{
+    margin: 20px;
+}
